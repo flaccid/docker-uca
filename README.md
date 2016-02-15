@@ -44,7 +44,6 @@ with the following command:
 
     $ docker run -it -v uca-data:/opt/uca uca rm /opt/uca/uca-db.lock
 
-## License & Authors
 
 License and Authors
 -------------------
