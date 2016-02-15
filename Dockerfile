@@ -1,7 +1,6 @@
 FROM       ubuntu
 MAINTAINER Chris Fordham <chris@fordham-nagy.id.au>
 
-ENV CONFIG /opt/uca/uca.toml
 ENV WSTUNNEL_HOST wstunnel1-1.rightscale.com
 ENV WSTUNNEL_TOKEN acme-super-cloud-124567876543abd56cbt
 ENV API_HOST us-3.rightscale.com
